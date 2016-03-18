@@ -1,0 +1,1 @@
+"./UART_Control.obj" "./i2c_Control.obj" "./main.obj" "../lnk_msp430f5229.cmd" -l"libmath.a" -l"libc.a" 
